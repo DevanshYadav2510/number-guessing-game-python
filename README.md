@@ -135,7 +135,9 @@ Through this project, I strengthened my understanding of:
 ## 👤 Author
 
 **Devansh Yadav**
+
 First-Year B.Tech (Artificial Intelligence) Student
+
 SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
